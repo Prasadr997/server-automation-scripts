@@ -4,7 +4,7 @@ this script can be used to all Databases
 
 
 
-[root@ip-172-30-0-4 ~]# cat /root/automated-jobs/db-backup-script.sh
+
 #!/bin/bash
 
 #Script to backup all databases
